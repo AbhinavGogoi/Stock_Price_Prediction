@@ -1,0 +1,7 @@
+Flask==2.2.5
+tensorflow
+keras-tuner
+scikit-learn
+numpy
+pandas
+yfinance
